@@ -1,7 +1,9 @@
 ## Hi there 👋
 
+🌱 Junior Developer passionate about solving practical problems through code. Currently building full-stack applications while refining skills in JavaScript, C#, and Python. Experienced in automating workflows and optimising platforms, bringing a practical, business-aware perspective to development projects.
+
 <!--
-**zsolt-wvdrppr/zsolt-wvdrppr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**zjb-cmd/zjb-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
