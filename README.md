@@ -2,6 +2,11 @@
 
 🌱 Junior Developer passionate about solving practical problems through code. Currently building full-stack applications while refining skills in JavaScript, C#, and Python. Experienced in automating workflows and optimising platforms, bringing a practical, business-aware perspective to development projects.
 
+## Public projects
+
+### NC News 
+NC News was a **Solo Project** I built during a Northcorders bootcamp. Now it has a completely functioning database and backend. The frontend is coming soon. All the endpoints are tested with Jest, and they also have effective error handling including user friendly error messages and appropriate status codes. Used: JS, PSQL, EXPRESS JS, HTML, CSS. 🌐LINK to repo: https://github.com/zsolt-wvdrppr/nc-news
+
 <!--
 **zjb-cmd/zjb-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
