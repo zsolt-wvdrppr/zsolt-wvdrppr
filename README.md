@@ -7,6 +7,9 @@
 ### NC News 
 NC News was a **Solo Project** I built during a Northcorders bootcamp. Now it has a completely functioning database and backend. The frontend is coming soon. All the endpoints are tested with Jest, and they also have effective error handling including user friendly error messages and appropriate status codes. Used: JS, PSQL, EXPRESS JS, HTML, CSS. 🌐LINK to repo: https://github.com/zsolt-wvdrppr/nc-news
 
+### Online IQ test web app
+Before bootcamp, I built an IQ Test web app using TypeScript + Next.js, Supabase Postgres/Edge Functions, Stripe, and an AI summary feature via Google Gemini (prompt engineering). I relied on AI tools for most of the TypeScript code back then; I’m keeping it public specifically to show my baseline and how much my engineering approach has improved since (structure, testing, and best practices). 🌐 LINK to repo: https://github.com/zsolt-wvdrppr/iqresearches-ui
+
 <!--
 **zjb-cmd/zjb-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
