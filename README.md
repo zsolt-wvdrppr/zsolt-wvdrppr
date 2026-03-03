@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🌱 Junior Developer passionate about solving practical problems through code. Currently building full-stack applications while refining skills in JavaScript, C#, and Python. Experienced in automating workflows and optimising platforms, bringing a practical, business-aware perspective to development projects.
+🌱 Junior Developer passionate about solving practical problems through code. Currently building full-stack applications while refining skills in JavaScript, TypeScript, C#, and Python. Experienced in automating workflows and optimising platforms, bringing a practical, business-aware perspective to development projects.
 
 ## Public projects
 
