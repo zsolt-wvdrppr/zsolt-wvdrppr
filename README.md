@@ -4,7 +4,7 @@
 
 # Public projects
 
-## NC News - Frontend
+## NC News - Frontend (still in progress)
 
 A modern Reddit-style news platform built with TypeScript, React 19, and Tailwind CSS v4 as the frontend companion to my NC News API. Features topic filtering, article sorting, commenting with voting, optimistic UI updates, and custom error handling. Demonstrates clean React architecture with custom hooks, Context API for state management, and type-safe development throughout. Built as a portfolio piece during the Northcoders bootcamp to showcase full-stack JavaScript capabilities.
 
@@ -25,11 +25,23 @@ NC News was a **Solo Project** I built during a Northcorders bootcamp. Now it ha
 ## Online IQ test web app
 Before bootcamp, I built an IQ Test web app using TypeScript + Next.js, Supabase Postgres/Edge Functions, Stripe, and an AI summary feature via Google Gemini (prompt engineering). I relied on AI tools for most of the TypeScript code back then; **I’m keeping it public specifically to show my baseline and how much my engineering approach has improved since** (structure, testing, and best practices).
 
+**Tech Stack:** JS, PSQL, Next.JS, TailwindCSS, Google Gemini AI, Stripe
+
 🌐 **Live Site:** https://iqresearches.com    
 🌐 **LINK to repo:** https://github.com/zsolt-wvdrppr/iqresearches-ui/blob/main/README.md
 
+## Wave CMS ##
+Wave CMS is an experimental, AI-assisted (pre-bootcamp) headless CMS built with Next.js and React, designed to manage content as JavaScript objects/arrays (code-first content model). It leverages Git for publishing/versioning, Supabase for draft and user management, and schema-driven forms for dynamic editor UX. Tested in real-world scenarios as the CMS backend for a few one-pager landing pages during fixed-term marketing campaigns. Ideal for developer-centric projects where content and code are tightly integrated, with a strong focus on schema validation, draft workflows and practical Git-based deployment. **I’m keeping it public specifically to show my baseline and how much my engineering approach has improved since**
+
+**Tech Stack:** JS, PSQL, Next.JS, TailwindCSS
+
+🌐 **LINK to repo:** https://github.com/zsolt-wvdrppr/wave-cms-admin/blob/main/README.md
+
+
 ## DriftDraft Website Planner App
 AI-Powered Website Planner (pre-bootcamp, AI-assisted) — An early-stage tool I built to speed up discovery calls for websites. Users answer a guided set of questions; AI helps turn rough notes into clear, marketing-aware requirements, then generates a detailed spec document with suggested wireframes and recommendations (SEO, ads, content and structure) that’s easier for a developer to implement. Includes a subscription-style credits + rate-limiting system (anonymous vs free vs paid tiers), implemented with Supabase Auth + RLS, JWT-authenticated API calls, and scheduled credit resets via cron. This was built before my bootcamp and involved heavy AI assistance; **I’m keeping it public to show my baseline and how much my engineering practices have improved since.**
+
+**Tech Stack:** JS, PSQL, Next.JS, TailwindCSS, Google Gemini AI, Stripe
 
 🌐 **Link to repo:** https://github.com/zsolt-wvdrppr/DriftDraftApp/blob/main/README.md
 
