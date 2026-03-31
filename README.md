@@ -14,7 +14,7 @@ A modern Reddit-style news platform built with TypeScript, React 19, and Tailwin
 
 🌐 **Live Site:** https://zsolts-news.netlify.app    
 🌐 **Live API:** https://zsolts-news.onrender.com/api    
-🌐 **LINK to Repo:** https://github.com/zsolt-wvdrppr/nc-news-frontend/blob/main/README.md
+🌐 **LINK to repo:** https://github.com/zsolt-wvdrppr/nc-news-frontend/blob/main/README.md
 
 ## NC News - Backend
 NC News was a **Solo Project** I built during a Northcorders bootcamp. Now it has a completely functioning database and backend. All the endpoints are tested with Jest, and they also have effective error handling including user friendly error messages and appropriate status codes.
