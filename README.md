@@ -1,6 +1,8 @@
-# Hi there 👋
+# Hey 👋
 
 🌱 Junior Developer passionate about solving practical problems through code. Currently building full-stack applications while refining skills in JavaScript, TypeScript, C#, and Python. Experienced in automating workflows and optimising platforms, bringing a practical, business-aware perspective to development projects.
+
+[<img src="https://github.com/zsolt-wvdrppr/zsolt-wvdrppr/blob/main/li.gif?raw=true" alt="LinkedIn" width="42" height="42">](https://www.linkedin.com/in/iamzsolt/)
 
 # Public projects
 
