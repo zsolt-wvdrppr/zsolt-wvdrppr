@@ -25,7 +25,7 @@ NC News was a **Solo Project** I built during a Northcorders bootcamp. Now it ha
 🌐 **LINK to repo**: https://github.com/zsolt-wvdrppr/nc-news/blob/main/README.md
 
 ## Online IQ test web app
-Before bootcamp, I built an IQ Test web app using TypeScript + Next.js, Supabase Postgres/Edge Functions, Stripe, and an AI summary feature via Google Gemini (prompt engineering). I relied on AI tools for most of the TypeScript code back then; **I’m keeping it public specifically to show my baseline and how much my engineering approach has improved since** (structure, testing, and best practices).
+Built a Next.js/TypeScript platform offering online IQ tests, with basic assessments for all users and optional premium AI-powered analysis. Implemented timed multi-domain tests, standardised scoring, and a social leaderboard that activates when users compare results, incorporating basic SEO techniques for discoverability. Development was assisted by GitHub Copilot.
 
 **Tech Stack:** JS, PSQL, Next.JS, TailwindCSS, Google Gemini AI, Stripe
 
