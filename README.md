@@ -6,7 +6,7 @@
 
 # Public projects
 
-## NC News - Frontend (still in progress)
+## NC News - Frontend
 
 A modern Reddit-style news platform built with TypeScript, React 19, and Tailwind CSS v4 as the frontend companion to my NC News API. Features topic filtering, article sorting, commenting with voting, optimistic UI updates, and custom error handling. Demonstrates clean React architecture with custom hooks, Context API for state management, and type-safe development throughout. Built as a portfolio piece during the Northcoders bootcamp to showcase full-stack JavaScript capabilities.
 
