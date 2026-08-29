@@ -6,6 +6,14 @@
 
 # Public projects
 
+## Repo Intel Agent
+
+A Repository Intelligence Agent that scans git repositories and reports insights like language breakdown, lines of code, commit activity, and top contributors. Built as a Python CLI with two modes `scan`, which walks a directory and writes structured JSON metadata for each repo it finds, and `ask`, which lets an LLM-backed agent (running fully locally via Ollama, so nothing leaves the machine) query that metadata, correct misspelled repo names, and even trigger a fresh scan itself.
+
+**Tech Stack:** Python, LangChain, Ollama, cloc, Git
+
+🌐 **LINK to repo:** https://github.com/zsolt-wvdrppr/repo-intel-agent/blob/main/README.md
+
 ## NC News - Frontend
 
 A modern Reddit-style news platform built with TypeScript, React 19, and Tailwind CSS v4 as the frontend companion to my NC News API. Features topic filtering, article sorting, commenting with voting, optimistic UI updates, and custom error handling. Demonstrates clean React architecture with custom hooks, Context API for state management, and type-safe development throughout. Built as a portfolio piece during the Northcoders bootcamp to showcase full-stack JavaScript capabilities.
